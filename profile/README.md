@@ -17,25 +17,26 @@
 
 ## Topics
 
-- [x] DevOps, GitOps, SRE
-- [x] Linux, Shell Scripting
-- [x] Version Control with Git
-- [x] Cloud Computing
-- [x] Microservices Architecture
-- [x] Application containerization
-- [x] Orchestration of containerized applications using Kubernetes
-- [x] Custom Kubernetes Operator
-- [x] Identity & Access Management
-- [x] Infrastructure as Code
-- [x] Service Meshes
-- [x] Continuous Integration, Continuous Delivery, and Continuous Deployment
-- [x] Operational Visibility (Logging, Metrics, Monitoring, and Alerting)
-- [x] Bash/Shell scripting
-- [x] Auto-scaling Applications
-- [x] Event-driven Architecture
-- [x] Serverless Computing
-- [x] Securing cloud applications and infrastructure
-- [x] Training LLM models
+- [x] **Training LLM models**
+- [x] **DevOps, GitOps, SRE**
+- [x] **Linux, Shell Scripting**
+- [x] **Version Control with Git**
+- [x] **Cloud Computing**
+- [x] **Microservices Architecture**
+- [x] **Application containerization**
+- [x] **Orchestration of containerized applications using Kubernetes**
+- [x] **Custom Kubernetes Operator**
+- [x] **Identity & Access Management**
+- [x] **Infrastructure as Code**
+- [x] **Service Meshes**
+- [x] **Continuous Integration, Continuous Delivery, and Continuous Deployment**
+- [x] **Operational Visibility (Logging, Metrics, Monitoring, and Alerting)**
+- [x] **Bash/Shell scripting**
+- [x] **Auto-scaling Applications**
+- [x] **Event-driven Architecture**
+- [x] **Serverless Computing**
+- [x] **Securing cloud applications and infrastructure**
+
 
 ## Authors
 - [Vaishnavi Mantri](https://github.com/VaishnaviNEU)
